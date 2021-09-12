@@ -3,7 +3,7 @@ const binarySearch = (list, value) => {
   let high = list.length - 1;
 
   while (low <= high) {
-    const mid = Math.floor((low + high) / 2);
+    const mid = Math.ceil((low + high) / 2);
     const guess = list[mid];
 
     if (guess < value) {
