@@ -9,7 +9,9 @@
     "testEnvironment": "node"
   },
   "scripts": {
-    "test": "npx jest --colors"
+    "test": "npx jest --colors",
+    "test-coverage": "npm test -- --coverage --coverageProvider=v8",
+    "lint": "npx eslint ."
   },
   "repository": {
     "type": "git",
