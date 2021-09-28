@@ -7,3 +7,4 @@
 ## Repository status
 
 * [x] Binary search
+* [x] Selection sort
