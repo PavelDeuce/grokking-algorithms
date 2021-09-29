@@ -35,5 +35,6 @@ test.each([
 
 test('quicksort', () => {
   expect(quicksort([])).toEqual([]);
+  expect(quicksort([20, 21, 22, 23])).toEqual([20, 21, 22, 23]);
   expect(quicksort([6, 9, 1, 5, 3, 11, 7])).toEqual([1, 3, 5, 6, 7, 9, 11]);
 });
