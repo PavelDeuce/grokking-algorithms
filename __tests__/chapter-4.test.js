@@ -21,8 +21,8 @@ test.each([
   ['Recursion', recursionCounter],
   ['Iter', iterCounter],
 ])('%s counter', (name, recursionCounterFunction) => {
-  expect(recursionCounterFunction([])).toBe(0);
   expect(recursionCounterFunction([1, 2, 3, 4, 5])).toBe(5);
+  expect(recursionCounterFunction([])).toBe(0);
 });
 
 test.each([
