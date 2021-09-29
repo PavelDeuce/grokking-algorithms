@@ -1,5 +1,5 @@
-import selectionSort from '../src/chapters/chapter-2/selectionSort';
-import iterSelectionSort from '../src/chapters/chapter-2/iterSelectionSort';
+import selectionSort from '../src/chapters/chapter-2/selectionSort.js';
+import iterSelectionSort from '../src/chapters/chapter-2/iterSelectionSort.js';
 
 test.each([
   ['Selection sort', selectionSort],

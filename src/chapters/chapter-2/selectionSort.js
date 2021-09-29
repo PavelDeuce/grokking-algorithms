@@ -1,4 +1,4 @@
-import findSmallestIndex from './findSmallestIndex';
+import findSmallestIndex from './findSmallestIndex.js';
 
 const selectionSort = (array) => {
   const sortedArray = [];

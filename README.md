@@ -8,3 +8,4 @@
 
 * [x] Binary search
 * [x] Selection sort
+* [x] Recursion
