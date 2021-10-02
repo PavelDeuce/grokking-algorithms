@@ -1,16 +1,16 @@
-import recursionSum from '../src/chapters/chapter-4/recursionSum.js';
+import recursiveSum from '../src/chapters/chapter-4/recursiveSum.js';
 import iterSum from '../src/chapters/chapter-4/iterSum';
 
-import recursionCounter from '../src/chapters/chapter-4/recursionCounter.js';
+import recursiveCounter from '../src/chapters/chapter-4/recursiveCounter.js';
 import iterCounter from '../src/chapters/chapter-4/iterCounter.js';
 
-import recursionMax from '../src/chapters/chapter-4/recursionMax.js';
+import recursiveMax from '../src/chapters/chapter-4/recursiveMax.js';
 import iterMax from '../src/chapters/chapter-4/iterMax.js';
 
 import quicksort from '../src/chapters/chapter-4/quicksort.js';
 
 test.each([
-  ['Recursion', recursionSum],
+  ['Recursive', recursiveSum],
   ['Iter', iterSum],
 ])('%s sum', (name, recursionSumFunction) => {
   expect(recursionSumFunction([])).toBe(0);
@@ -18,7 +18,7 @@ test.each([
 });
 
 test.each([
-  ['Recursion', recursionCounter],
+  ['Recursive', recursiveCounter],
   ['Iter', iterCounter],
 ])('%s counter', (name, recursionCounterFunction) => {
   expect(recursionCounterFunction([1, 2, 3, 4, 5])).toBe(5);
@@ -26,7 +26,7 @@ test.each([
 });
 
 test.each([
-  ['Recursion', recursionMax],
+  ['Recursive', recursiveMax],
   ['Iter', iterMax],
 ])('%s max', (name, recursionMaxFunction) => {
   expect(recursionMaxFunction([])).toBe(null);

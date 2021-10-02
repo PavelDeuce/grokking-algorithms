@@ -10,3 +10,4 @@
 * [x] Selection sort
 * [x] Recursion
 * [x] Quicksort
+* [x] Hashtable
