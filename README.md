@@ -6,8 +6,9 @@
 
 ## Repository status
 
-* [x] Binary search
-* [x] Selection sort
-* [x] Recursion
-* [x] Quicksort
-* [x] Hashtable
+* [x] Chapter 1 - Binary search
+* [x] Chapter 2 - Selection sort
+* [x] Chapter 3 - Recursion
+* [x] Chapter 4 - Quicksort
+* [x] Chapter 5 - Hashtable
+* [x] Chapter 6 - Breadth-first search
