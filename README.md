@@ -4,6 +4,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/124f3ea7dbc891ded46a/maintainability)](https://codeclimate.com/github/PavelDeuce/grokking-algorithms/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/124f3ea7dbc891ded46a/test_coverage)](https://codeclimate.com/github/PavelDeuce/grokking-algorithms/test_coverage)
 
+Doing the exercises using the grokking-algorithms book
+
 ## Repository status
 
 * [x] Chapter 1 - Binary search

@@ -1,8 +1,17 @@
 {
   "name": "grokking-algorithms",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Doing the exercises using the grokking-algorithms book",
+  "keywords": [
+    "grokking-algorithms",
+    "algorithms",
+    "Recursion",
+    "Quicksort",
+    "Binary search",
+    "Selection sort",
+    "Breadth-first search",
+    "Dijkstra's algorithm"
+  ],
   "main": "src/index.js",
   "type": "module",
   "jest": {
