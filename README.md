@@ -12,3 +12,4 @@
 * [x] Chapter 4 - Quicksort
 * [x] Chapter 5 - Hashtable
 * [x] Chapter 6 - Breadth-first search
+* [x] Chapter 7 - Dijkstra's algorithm
