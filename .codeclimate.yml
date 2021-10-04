@@ -7,3 +7,5 @@ checks:
     enabled: false
   method-count:
     enabled: false
+  method-lines:
+    enabled: false
