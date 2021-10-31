@@ -15,3 +15,5 @@ Doing the exercises using the grokking-algorithms book
 * [x] Chapter 5 - Hashtable
 * [x] Chapter 6 - Breadth-first search
 * [x] Chapter 7 - Dijkstra's algorithm
+* [x] Chapter 8 - Dreedy Algorithms
+* [x] Chapter 9 - Dynamic Programming
