@@ -7,11 +7,13 @@
     "algorithms",
     "Recursion",
     "Quicksort",
+    "Merge sort",
     "Binary search",
     "Selection sort",
     "Breadth-first search",
     "Dijkstra's algorithm",
     "Greedy algorithm",
+    "Knapsack problem",
     "Dynamic programming"
   ],
   "main": "src/index.js",
