@@ -1,9 +1,11 @@
 import selectionSort from '../src/chapters/chapter-2/selectionSort.js';
 import iterSelectionSort from '../src/chapters/chapter-2/iterSelectionSort.js';
+import mergeSort from '../src/chapters/chapter-2/mergeSort.js';
 
 test.each([
   ['Selection sort', selectionSort],
   ['Iter selection sort', iterSelectionSort],
+  ['Merge sort', mergeSort],
 ])('%s', (name, selectionSortFunction) => {
   expect(selectionSortFunction([])).toEqual([]);
   expect(selectionSortFunction([1, 2, 3])).toEqual([1, 2, 3]);
