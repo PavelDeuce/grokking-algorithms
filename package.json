@@ -14,7 +14,8 @@
     "Dijkstra's algorithm",
     "Greedy algorithm",
     "Knapsack problem",
-    "Dynamic programming"
+    "Dynamic programming",
+    "Climbing staircase"
   ],
   "main": "src/index.js",
   "type": "module",

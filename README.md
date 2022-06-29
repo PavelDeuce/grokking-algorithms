@@ -16,4 +16,4 @@ Doing the exercises using the grokking-algorithms book
 * [x] Chapter 6 - Breadth-first search
 * [x] Chapter 7 - Dijkstra's algorithm
 * [x] Chapter 8 - Greedy Algorithms (+Knapsack problem)
-* [x] Chapter 9 - Dynamic Programming
+* [x] Chapter 9 - Dynamic Programming (+Knapsack problem, +Climbing staircase problem)
