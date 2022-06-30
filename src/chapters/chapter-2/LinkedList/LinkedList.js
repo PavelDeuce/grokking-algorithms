@@ -72,4 +72,13 @@ export default class LinkedList {
 
     return deletedNode;
   }
+
+  deleteHead() {
+    const { head } = this;
+
+    this.head = head.next;
+    this.tail = this.head?.next;
+
+    return head;
+  }
 }

@@ -80,4 +80,11 @@ describe('Linked list', () => {
 
     expect(linkedList.tail.next).toBeNull();
   });
+
+  it('Delete head', () => {
+    linkedList.append(5).append(4).append(3);
+    linkedList.deleteHead();
+
+    expect(linkedList.head.value).toBe(4);
+  });
 });
