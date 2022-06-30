@@ -15,7 +15,8 @@
     "Greedy algorithm",
     "Knapsack problem",
     "Dynamic programming",
-    "Climbing staircase"
+    "Climbing staircase",
+    "Linked list"
   ],
   "main": "src/index.js",
   "type": "module",
