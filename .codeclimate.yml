@@ -9,5 +9,5 @@ checks:
     enabled: false
   method-lines:
     enabled: false
-  identical-code:
+  similar-code:
     enabled: false
