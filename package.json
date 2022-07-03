@@ -16,7 +16,8 @@
     "Knapsack problem",
     "Dynamic programming",
     "Climbing staircase",
-    "Linked list"
+    "Linked list",
+    "Stack"
   ],
   "main": "src/index.js",
   "type": "module",

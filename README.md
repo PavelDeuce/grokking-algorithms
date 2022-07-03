@@ -10,7 +10,7 @@ Doing the exercises using the grokking-algorithms book
 
 * [x] Chapter 1 - Binary search
 * [x] Chapter 2 - Selection sort, Merge sort (+Linked list)
-* [x] Chapter 3 - Recursion
+* [x] Chapter 3 - Recursion (+Stack)
 * [x] Chapter 4 - Quicksort
 * [x] Chapter 5 - Hashtable
 * [x] Chapter 6 - Breadth-first search
