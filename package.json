@@ -17,6 +17,7 @@
     "Dynamic programming",
     "Climbing staircase",
     "Linked list",
+    "Double linked list",
     "Stack"
   ],
   "main": "src/index.js",

@@ -9,7 +9,7 @@ Doing the exercises using the grokking-algorithms book
 ## Repository status
 
 * [x] Chapter 1 - Binary search
-* [x] Chapter 2 - Selection sort, Merge sort (+Linked list)
+* [x] Chapter 2 - Selection sort, Merge sort (+Linked list, +Double linked list)
 * [x] Chapter 3 - Recursion (+Stack)
 * [x] Chapter 4 - Quicksort
 * [x] Chapter 5 - Hashtable
